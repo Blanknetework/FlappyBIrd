@@ -1,4 +1,4 @@
-echo "# Flappy Bird
+## Flappy Bird
 
 A simple Flappy Bird game implemented in Java using Swing for the graphical user interface.
 
