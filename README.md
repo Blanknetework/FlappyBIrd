@@ -21,8 +21,8 @@ A simple Flappy Bird game implemented in Java using Swing for the graphical user
 1. **Clone the repository:**
 
     \`\`\`sh
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/Blanknetework/FlappyBIrd.git
+    cd FlappyBird
     \`\`\`
 
 2. **Compile the project:**
